@@ -1,7 +1,7 @@
 #!/bin/sh
 
 DEVELOPER="/Applications/Xcode.app/Contents/Developer"
-SDK_VERSION="6.0"
+SDK_VERSION="6.1"
 
 DEVICE_PLATFORM="${DEVELOPER}/Platforms/iPhoneOS.platform"
 SIMULATOR_PLATFORM="${DEVELOPER}/Platforms/iPhoneSimulator.platform"
